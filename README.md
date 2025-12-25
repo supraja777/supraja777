@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=0E75F6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Supraja+Srikanth+👋;Software+Engineer+%26+AI+Enthusiast;LLM+|+RAG+|+Multi-Agent+Systems" alt="Typing SVG">
-</h1>
-
-<p align="center">
   <strong>Software Engineer | AI & LLM Enthusiast | Full-Stack & Transformer Systems</strong>
-</p>
+</h1>
 
 ---
 
@@ -40,13 +36,6 @@
 - **[Dual-Agent Debate](https://github.com/supraja777/Dual-Agent-Debate-Pattern)**  
   Developed a multi-agent LLM debate framework with orchestration, memory management, prompt engineering, and multi-round reasoning for structured argument generation.  
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supraja777&show_icons=true&theme=radical" alt="Supraja's GitHub Stats" />
-</p>
 
 ---
 
