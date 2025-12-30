@@ -1,48 +1,86 @@
 <h1 align="center">
-  <strong>Software Engineer | AI & LLM Enthusiast | Full-Stack & Transformer Systems</strong>
+  Hi 👋, I'm Supraja Srikanth
 </h1>
 
----
-
-## 🔥 Tech Stack
-
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-</p>
+<h3 align="center">
+  Software Engineer • Backend Systems • AI & LLM Engineering
+</h3>
 
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  Building scalable backend systems and training LLMs from first principles
 </p>
 
 ---
 
-## 📊 Key Projects
+## 🧠 Core Expertise
 
-- **[GPT From Scratch](https://github.com/supraja777/GPT-From-Scratch)**  
-  Built a GPT-style transformer from scratch with BPE tokenization, multi-head attention, transformer blocks, and autoregressive text generation.  
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+</p>
 
-- **[All-RAG-Techniques](https://github.com/supraja777/All-RAG-Techniques)**  
-  Implemented scalable RAG pipelines with dense embeddings, vector search, semantic chunking, reranking, and contextual compression to improve LLM retrieval accuracy.  
-
-- **[Dual-Agent Debate](https://github.com/supraja777/Dual-Agent-Debate-Pattern)**  
-  Developed a multi-agent LLM debate framework with orchestration, memory management, prompt engineering, and multi-round reasoning for structured argument generation.  
-
+**Focus Areas**
+- Backend Engineering (Java, Spring Boot, Microservices, REST)
+- Distributed Systems & Performance Optimization
+- Large Language Models (LLMs) & Transformer Architectures
+- Retrieval-Augmented Generation (RAG)
+- ML / AI Systems Engineering with PyTorch
 
 ---
 
-## 🤝 Let's Connect
+## 🧩 Featured Projects
+
+### 🔹 GPT From Scratch
+🔗 https://github.com/supraja777/GPT-From-Scratch  
+
+Implemented a **GPT-style language model from scratch** using PyTorch, covering:
+- Byte Pair Encoding (BPE) tokenization
+- Multi-head self-attention & transformer blocks
+- Positional embeddings
+- Autoregressive training & inference pipelines  
+
+> Built to deeply understand transformer internals rather than relying on abstractions.
+
+---
+
+### 🔹 All RAG Techniques
+🔗 https://github.com/supraja777/All-RAG-Techniques  
+
+Engineered **scalable Retrieval-Augmented Generation pipelines**, including:
+- Dense embeddings & vector search
+- Semantic chunking strategies
+- Query rewriting & reranking
+- Contextual compression  
+
+> Focused on improving retrieval quality and reasoning accuracy in LLM systems.
+
+---
+
+### 🔹 Dual-Agent Debate Pattern
+🔗 https://github.com/supraja777/Dual-Agent-Debate-Pattern  
+
+Designed a **multi-agent LLM debate framework** featuring:
+- Agent orchestration & state-driven workflows
+- Memory management
+- Prompt engineering
+- Multi-round reasoning and synthesis  
+
+> Explores structured reasoning and controlled argument generation using agents.
+
+---
+
+## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/suprajasrikanth/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:suprajasrikanth872@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/supraja777"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/suprajasrikanth/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:suprajasrikanth872@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/supraja777">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
 </p>
